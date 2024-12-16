@@ -2,6 +2,8 @@
 
 Want to maximize your crypto assets effortlessly? **zeak Navigator** unlocks the promise of compressed tokens, helping you save costs and get the most out of your Solana journey. It is a user-focused tool that manages your compressed tokens on Solana, simplifying compressing, decompressing, and discovering dApps based on wallet contents, while providing an intuitive experience for both developers and non-developers. **zeak Navigator** is the simplest way to manage, compress, and explore zkCompression on Solana. By leveraging zkCompression technology, **zeak Navigator** offers a streamlined, secure, and efficient way to interact with the Solana ecosystem.
 
+https://zeaknavigator.vercel.app/
+
 ## Why We Started Building the Product
 
 Many Solana users struggle with effectively managing their compressed tokens, including compressing, decompressing, and visualizing the compressed tokens. Managing compressed tokens is a rapidly growing need as more users adopt Solana, and inefficient management can lead to missed opportunities in leveraging dApps effectively. We saw an opportunity to create **zeak Navigator** to simplify this experience, making it easier for users to fully utilize their token holdings and take advantage of the Light protocol's zkCompression technology.
